@@ -38,7 +38,6 @@ public class Main {
     static int difKristy=(payKristy*12)-(76230*12);
 
 
-
     public static void main (String[] args){
 
         System.out.println ("На каждого ученика рассчитано "+lis+" листов бумаги");
